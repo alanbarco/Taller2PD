@@ -1,6 +1,6 @@
 package strategy_FM;
 
-import application.Transporte;
+import FactoryMethod.Transporte;
 
 public class TransporteFactory {
 	private StrategyDistribucion distribucion;

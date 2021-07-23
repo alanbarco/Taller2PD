@@ -1,6 +1,6 @@
-package application;
+package FactoryMethod;
 
-public class Barco implements Transporte{
+public class Avion implements Transporte{
 
 	@Override
 	public void entrega() {

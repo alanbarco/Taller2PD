@@ -2,7 +2,7 @@ package strategy_FM;
 
 import java.util.ArrayList;
 
-import application.Transporte;
+import FactoryMethod.Transporte;
 
 public class ViaFerrea implements StrategyDistribucion{
 	
